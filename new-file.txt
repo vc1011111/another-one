@@ -1,1 +1,2 @@
 This is a new file on my second repo in git hub
+Second line in the text file.
